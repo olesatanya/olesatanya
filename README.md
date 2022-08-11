@@ -13,7 +13,7 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/chenjiejiejie)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.6a1f910ed08aa4a3)
   [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://olesatanya.github.io/)
-  [![Mail](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://olesatanya.gmail.com/)
+  [![Mail](https://img.shields.io/badge/Gmail-gray?style=flat&logo=appveyor)](https://olesatanya.gmail.com/)
   </div>
 
 </h1>
