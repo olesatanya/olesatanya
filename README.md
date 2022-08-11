@@ -2,6 +2,7 @@
   𝐇𝐞𝐥𝐥𝐨, It's OlesaTanya!
   
   <br />
+  <br />
   <img src="https://profile-counter.glitch.me/olesatanya/count.svg" />
   <br />
   <div align=center>
@@ -39,7 +40,7 @@ Blockchain and Full Stack developer with awesome web technical skills, hefty pro
 <h4 align="center">🔥 My Stacks 🔥</h4>
 <hr>
 <br>
-
+- 🥇 Blockchain Development: [Solidity](https://www.solidity.com/), [Rust](https://www.rust.org/), [Golang](https://golang.org/) 
 - 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 )
 - 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
 - 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/), [Ionic](https://ionicframework.com/), [NativeScript](https://nativescript.org/), [Flutter](https://flutter.dev/), [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
