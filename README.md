@@ -2,17 +2,18 @@
   𝐇𝐞𝐥𝐥𝐨, It's OlesaTanya!
   
   <br />
-  <img src="https://profile-counter.glitch.me/infiniteaengus/count.svg" />
+  <img src="https://profile-counter.glitch.me/olesatanya/count.svg" />
   <br />
   <div align=center>
   
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=infiniteaengus&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=olesatanya&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
   
-  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=infiniteaengus&theme=merko" />
+  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=olesatanya&theme=merko" />
   
   [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/chenjiejiejie)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.6a1f910ed08aa4a3)
   [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://olesatanya.github.io/)
+  [![Mail](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://olesatanya.gmail.com/)
   </div>
 
 </h1>
@@ -31,6 +32,19 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](live:.cid.6a1f910ed08aa4a3/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 <br/>
+
+
+<h4 align="center">🔥 My Stacks 🔥</h4>
+<hr>
+<br>
+
+- 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 )
+- 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
+- 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/), [Ionic](https://ionicframework.com/), [NativeScript](https://nativescript.org/), [Flutter](https://flutter.dev/), [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+- 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
+- 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
+
+
 
 #
 
