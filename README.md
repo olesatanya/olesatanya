@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, It's Olesatanya!
+  𝐇𝐞𝐥𝐥𝐨, It's OlesaTanya!
   
   <br />
   <img src="https://profile-counter.glitch.me/infiniteaengus/count.svg" />
@@ -10,11 +10,9 @@
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=infiniteaengus&theme=merko" />
   
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/infiniteaengus0)
-  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.b1620422bf2f1a5a)
-  [![Discord](https://img.shields.io/badge/-Discord-grey?style=flat&logo=Discord&logoColor=white)](Infinite#8617)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin/in/james-bell-468a16239/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://infiniteaengus.github.io/)
+  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/chenjiejiejie)
+  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.6a1f910ed08aa4a3)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://olesatanya.github.io/)
   </div>
 
 </h1>
@@ -24,13 +22,13 @@
 
 <a target="_blank">
   
-  <img align="right" height="200" width="300" alt="GIF" src="https://github.com/infiniteaengus/github-profile/blob/master/coder.gif">
+  <img align="right" height="200" width="300" alt="GIF" src="https://github.com/olesatanya/olesatanya/blob/master/coder.gif">
 
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** 𝚊𝚗𝚍 **Full-stack** developer
 - 🤔 I’m looking to collaborate on anything!
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://linkedin/in/james-bell-468a16239/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](live:.cid.6a1f910ed08aa4a3/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 <br/>
 
