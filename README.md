@@ -11,10 +11,10 @@
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=olesatanya&theme=merko" />
   
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/chenjiejiejie)
+  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/olesa0000)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.6a1f910ed08aa4a3)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://olesatanya.github.io/)
-  [![Mail](https://img.shields.io/badge/Gmail-gray?style=flat&logo=appveyor)](https://olesatanya.gmail.com/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://olesatanya.github.io)
+  [![Mail](https://img.shields.io/badge/Gmail-gray?style=flat&logo=appveyor)](mailto:olesatanya.gmail.com)
   </div>
 
 </h1>
