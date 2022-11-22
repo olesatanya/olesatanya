@@ -14,7 +14,7 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/olesa0000)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.6a1f910ed08aa4a3)
   [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://olesatanya.github.io)
-  [![Mail](https://img.shields.io/badge/Gmail-gray?style=flat&logo=appveyor)](mailto:olesatanya.gmail.com)
+  [![Mail](https://img.shields.io/badge/Gmail-gray?style=flat&logo=Gmail)](mailto:olesatanya.gmail.com)
   [![Linkedin](https://img.shields.io/badge/Linkedin-gray?style=flat&logo=Linkedin)](https://www.linkedin.com/in/olesa-tanya)
   </div>
 
