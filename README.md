@@ -13,7 +13,7 @@ I'm working as Software Engineer.
 
 **Languages and Framework**
 
-`Ruby`｜`Ruby on Rails`｜`JavaScript`｜`TypeScript`｜`Vue.js`｜`Nuxt.js`｜`React.js`｜`React Native`｜`Next.js`｜`Golang`｜
+`Ruby`｜`Ruby on Rails`｜`JavaScript`｜`TypeScript`｜`Vue.js`｜`Nuxt.js`｜`React.js`｜`React Native`｜`Next.js`｜`Golang`｜ `Solidity`｜
 
 **Infrastructure**
 
